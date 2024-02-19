@@ -17,6 +17,7 @@ This is a simple web application built with React that allows users to input a G
    ```bash
    git clone https://github.com/ashnapola97/ibmtakehomeassignment
 
+2.When you clone the repository, you'll initially be on the main branch. If you need to access the files in the master branch, you can switch to it using the git checkout master command after cloning.
 
-2. you need to install axios
+3. you need to install axios
 npm install axios
