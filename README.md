@@ -1,5 +1,5 @@
-# ibmtakehomeassignment
-ibm assignment
+# assignment
+assignment
 
 
 This is a simple web application built with React that allows users to input a GitHub repository URL and view its pull requests. It fetches pull requests from the GitHub API and displays them on the page, along with information such as the title, author, and number of comments for each pull request.
